@@ -59,6 +59,7 @@ void draw() {
   r = counter <= 0 ? int(random(255)) : r;
   b = counter <= 0 ? int(random(255)) : b;
   g = counter <= 0 ? int(random(255)) : g;
+  //println(counter);
 
 
   // Explaining the modulus operator
