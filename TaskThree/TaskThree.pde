@@ -1,8 +1,8 @@
 //3.b
 String address;
 //3.c
-int heltTal = 4+5;
+int heltTal;
 //3.d
-float kommaTal = 4.3+5.8;
+float divisionTal; //vælger float her da divisionstal ofte ikke er hele tal
 //3.e
-String beskedTilBruger = "Hej bruger";
+String beskedTilBruger;
